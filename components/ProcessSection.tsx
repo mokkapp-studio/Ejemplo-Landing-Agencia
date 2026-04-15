@@ -51,7 +51,7 @@ export default function ProcessSection() {
               <span className="text-xs font-medium tracking-widest text-[#666666]">
                 {step.number}
               </span>
-              <h3 className="text-lg font-medium text-[#13bbd8]">
+              <h3 className="text-lg font-medium text-[#111111]">
                 {step.title}
               </h3>
               <p className="text-base font-normal leading-relaxed text-[#666666]">

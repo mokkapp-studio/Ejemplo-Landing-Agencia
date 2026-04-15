@@ -22,7 +22,7 @@ export default function CTASection() {
               href="mailto:hola@nexusagency.com"
               className="inline-flex items-center justify-center px-8 py-3 bg-black text-white text-sm transition-colors hover:bg-[#111111]"
             >
-              hola@nexusagency.com
+              Envíanos un email
             </a>
             <a
               href="tel:+34600000000"
