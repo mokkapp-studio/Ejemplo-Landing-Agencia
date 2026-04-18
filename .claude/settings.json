@@ -2,6 +2,6 @@
     "skills": [
         ".claude/skills/color-check/SKILL.md",
         ".claude/skills/typo-check/SKILL.md",
-        "./.agents/skills/ux-heuristics/SKILL.md"
+        ".claude/skills/ux-heuristics/SKILL.md"
     ]
 }

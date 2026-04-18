@@ -2,7 +2,7 @@ export default function HeroSection() {
   return (
     <section className="pt-40 pb-24 md:pt-52 md:pb-32">
       <div className="max-w-6xl mx-auto px-6">
-        <p className="text-xs font-medium tracking-widest uppercase text-[#666666] mb-8">
+        <p className="text-xs font-bold tracking-widest uppercase text-[#666666] mb-8">
           Agencia de Marketing Digital
         </p>
         <h1 className="text-5xl md:text-7xl font-extralight tracking-tight text-[#111111] max-w-4xl mb-8">
